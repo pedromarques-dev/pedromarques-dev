@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/pedromarques-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedromarques-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedromarques-dev&show_icons=true&theme=tokyonight&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromarques-dev&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <br>
