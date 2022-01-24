@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Pedro Marques
 
-- 🔭 Hoje eu trabalho com Front-end
-- 🌱 Estudando JavaScript
+- 🔭 Hoje eu pratico Front-end
+- 🌱 Estudando React
 - 😄 ele/dele
 
 <div align="center">
