@@ -1,7 +1,8 @@
 ### Olá! Eu sou o Pedro Marques
 
-- 🔭 Hoje eu pratico Front-end
-- 🌱 Estudando React
+- 🔭 Hoje eu trabalho com Front-end
+- 🌱 Desenvolvedor React/React native
+- ✨ Principal linguagem: TypeScript
 - 😄 ele/dele
 
 <div align="center">
