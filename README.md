@@ -1,9 +1,8 @@
 ### Olá! Eu sou o Pedro Marques
 
-- 🔭 Hoje eu trabalho com Front-end
-- 🌱 Desenvolvedor React/React native
+- 🔭 Hoje eu trabalho como Full Stack
+- 🌱 Desenvolvedor React/React native & NodeJS
 - ✨ Principal linguagem: TypeScript
-- 😄 ele/dele
 
 <div align="center">
   <a href="https://github.com/pedromarques-dev">
