@@ -23,6 +23,8 @@
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
    <img align="center" alt="Pedro-JEST" height="30" width="40"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+   <img align="center" alt="Pedro-JEST" height="30" width="40"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" />
   <img align="center" alt="Pedro-JEST" height="30" width="40"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
   <img align="center" alt="Pedro-JEST" height="30" width="40"
@@ -31,6 +33,7 @@
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
  <img align="center" alt="Pedro-JEST" height="30" width="40"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+ 
 
 </div>
   
