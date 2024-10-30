@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Pedro Marques
 
 - 🔭 Hoje eu trabalho como Full Stack
-- 🌱 Desenvolvedor React/React native & NodeJS
+- 🌱 Desenvolvedor React/Nextjs & NodeJS/Nestjs
 - ✨ Principal linguagem: TypeScript
 
 <div align="center">
