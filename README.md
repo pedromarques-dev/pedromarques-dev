@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Pedro Marques
 
 - 🔭 Hoje eu trabalho como Full Stack
-- 🌱 Desenvolvedor React/Nextjs & NodeJS
-- ✨ Principal linguagem: TypeScript
+- 🌱 Desenvolvedor React/Nextjs & NodeJS & Flutter & React Native
+- ✨ Principal linguagem: JavaScript
 
 <div align="center">
   <a href="https://github.com/pedromarques-dev">
@@ -23,6 +23,8 @@
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
    <img align="center" alt="Pedro-JEST" height="30" width="40"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+   <img align="center" alt="Pedro-JEST" height="30" width="40"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
    <img align="center" alt="Pedro-JEST" height="30" width="40"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" />
   <img align="center" alt="Pedro-JEST" height="30" width="40"
